@@ -1,4 +1,4 @@
-# flutter_date_pickers
+# IndicativeCalendar
 
 Allows to use date pickers without dialog.
 Provides some customizable styles for date pickers.
@@ -11,7 +11,7 @@ A set of date pickers:
 
 ![](demoDatePickers.gif)
 
-## How to style date picker
+## How to style indicative calendar
 Every date picker constructor take a style object as a parameter (if no styles passed - defaults will be used).
 
 For single value pickers (DayPicker, MonthPicker) it is DatePickerStyles object;
